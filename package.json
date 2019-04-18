@@ -44,6 +44,8 @@
     "upload": "gh-pages -d build",
     "deploy": "yarn upload",
     "serve": "serve -s build",
+    "backstop:test": "yarn backstop test",
+    "backstop:approve": "yarn backstop approve",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "eslint": "node_modules/.bin/eslint src/**/*.tsx",
