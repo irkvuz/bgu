@@ -21,7 +21,7 @@
     "customize-cra": "1.0.0",
     "date-fns": "2.15.0",
     "eslint": "^6.1.0",
-    "history": "4.10.1",
+    "history": "5.0.0",
     "prop-types": "15.7.2",
     "react": "17.0.1",
     "react-app-rewired": "2.1.6",
